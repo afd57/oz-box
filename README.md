@@ -1,5 +1,7 @@
 # oz-box
 
+Heroku: [https://oz-box.herokuapp.com/](https://oz-box.herokuapp.com/)
+
 ## Project setup
 ```
 npm install
